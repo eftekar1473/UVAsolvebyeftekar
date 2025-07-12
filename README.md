@@ -1,5 +1,5 @@
 <details>
-  <summary>🔹 Hello World in C</summary>
+  <summary>🔹 Hello World</summary>
 
 ```c
 #include <stdio.h>
